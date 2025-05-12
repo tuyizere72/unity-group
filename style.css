@@ -1,0 +1,40 @@
+*
+/* .container{
+    margin-left: 11100px;
+    display: flex;
+    position:fixed;
+    nav-right: 1000; 
+} */
+ 
+    div{ margin-left: 1000px;
+        text-align: left;
+        position: fixed;
+        top: 20px;
+        left: 10;
+        justify-content: space-around;
+    }
+/* footer{
+margin-right: 10100px;
+nav-right: 1000; 
+} */
+body{
+
+    text-align: left;
+    background-color: rgb(138, 75, 75);
+    margin-left:1110 ;
+}
+nav{
+
+    margin-left: 1000px;
+    position: fixed;
+    top: 20px;
+    left: 10;
+    justify-content: space-around;
+    
+    }
+/* div{
+    text-align: right;
+    background-color: aqua;
+    margin-top: 50px;
+    padding:10px;
+} */
